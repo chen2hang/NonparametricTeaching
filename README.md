@@ -17,4 +17,4 @@ NonparametricTeaching is released under the MIT License (refer to the LICENSE fi
 ![The sketch for missing person report.](https://github.com/chen2hang/NonparametricTeaching/blob/main/out/ORL/2d%20face%20eta%3D0.05%20B%3Done.png)
 
 ### Contact
-Chen Zhang
+[Chen Zhang](https://chen2hang.github.io/)
