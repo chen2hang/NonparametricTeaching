@@ -3,7 +3,7 @@ By Chen Zhang, Xiaofeng Cao, Weiyang Liu, Ivor Tsang, James Kwok
 ### License
 NonparametricTeaching is released under the MIT License (refer to the LICENSE file for details).
 ### Update
-- 20230617: We uploaded the resource files for the Poster \& Slides.
+- 20230617: The resource files for the [Poster](https://github.com/chen2hang/chen2hang.github.io/tree/master/_publications/nonparametric_iterative_machine_teaching/.ICML_2023_Poster) \& [Slides](https://github.com/chen2hang/chen2hang.github.io/tree/master/_publications/nonparametric_iterative_machine_teaching/.ICML_2023_Slides) are available.
 - 20230513: We updated some resources in Nonparametric Iterative Machine Teaching.
 
 ### Visualization of Greedy Functional Teaching algorithm
