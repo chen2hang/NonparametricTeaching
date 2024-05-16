@@ -1,2 +1,0 @@
-# Copyright
-This was created and modified by Chen Zhang using the Beamer template. All source can be used for non-commercial purposes without permission. However, for commercial use, please contact me for permission.
